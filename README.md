@@ -19,4 +19,4 @@
 - 🤖 **Machine Learning / AI**: scikit-learn, TensorFlow, PyTorch  
 - 📊 **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, ggplot2  
 - 🗄️ **Databases**: PostgreSQL + PostGIS, MySQL  
-- 🔧 **Other Tools**: Git, Jupyter Notebook, VS Code  
+- 🔧 **Other Tools**: PowerBI, Tableau
